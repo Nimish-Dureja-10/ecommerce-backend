@@ -18,7 +18,7 @@ const app = express();
 
 const allowedUrls = [
     'https://ecommerce-frontend-ybfn3bt4s-nimish-dureja-10.vercel.app',
-    'ecommerce-frontend-ashen-sigma.vercel.app'
+    'https://ecommerce-frontend-ashen-sigma.vercel.app'
 ]
 
 //middleware
